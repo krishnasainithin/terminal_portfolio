@@ -9,7 +9,7 @@ const COMMANDS = {
   education:	
     "Bachelor of Technology — Computer Science and Information Technology,<br>Institute Of Aeronautical Engineering, Hyderabad.",	
   resume: "<a href='./RESUME 3317.pdf' class='success link'>resume.pdf</a>",	
-  experience: '<span class="code">e-DAM: </span> <a href="https://edam.tech/" class="success link">Web Developer</a> - Learning and applying to web development skills. [April 2021 – Aug 2021] <br><span class="code">CodeClause: </span> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7060662057213317120/" class="success link">Python Development Intern</a> -  The Internship has been a transformative experience, allowing me to apply and enhance my Python programming skills in a real-world.[April 2023]<br>',	
+  experience: '<span class="code">e-DAM: </span> <a href="https://edam.tech/" class="success link">Web Developer</a> - Learning and applying web development skills. [April 2021 – Aug 2021] <br><span class="code">CodeClause: </span> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7060662057213317120/" class="success link">Python Development Intern</a> -  The Internship has been a transformative experience, allowing me to apply and enhance my Python programming skills in a real-world.[April 2023]<br>',	
   contact:	
     "Email: <a href='mailto:ksnithin.alimella@gmail.com' class='success link'>ksnithin.alimella@gmail.com</a> <br>LinkedIn : <a href='https://www.linkedin.com/in/krishnasainithin' class='success link'>krishnasainithin</a><br>Phone : (+91)6300368707",	
   hello:	
